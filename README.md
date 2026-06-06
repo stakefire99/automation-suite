@@ -95,7 +95,4 @@ Open the local development URL displayed in the terminal.
 
 ## Author
 
-Lakshita Sharma
-
-MCA (Data Analytics) Student
-Jain University
+Lakshita 
